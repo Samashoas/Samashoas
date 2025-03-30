@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Juan Pablo, I'm a Computer Science student at the University of San Carlos of Guatemala.
-## 🏆 Featured Projects
+## 🏆 Collaborative Projects
 
 <a href="https://vrlearnings.com">
   <img src="https://vrlearnings.com/images/virtualreality/Logo2.PNG" alt="VR Logo" width="150"/>
