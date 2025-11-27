@@ -2,7 +2,7 @@
 ## 🏆 Collaborative Projects
 
 <a href="https://vrlearnings.com">
-  <img src="https://vrlearnings.com/images/virtualreality/Logo2.PNG" alt="VR Logo" width="150"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHCwTBM7Pq3_Q/company-logo_100_100/company-logo_100_100/0/1731370334155/vr_learn_logo?e=1766016000&v=beta&t=btSyWtME4yk2Sj2JYPtTfHltCvlHHemPObkqwIivoeQ" alt="VR Logo" width="110"/>
 </a>
 
 
